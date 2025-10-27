@@ -1,2 +1,2 @@
 let iceCreamFlavors = ['chocolate', 'vanilla', 'twist'];
-document.getElementById("result").innerHTM = iceCreamFlavors;
+document.getElementById("result").innerHTML = iceCreamFlavors;
